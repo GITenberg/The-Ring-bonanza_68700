@@ -1,11 +1,16 @@
 _repo: The-Ring-bonanza_68700
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68700-h/images/cover.jpg
 creator:
   author:
     agent_name: Binder, Otto
     gutenberg_agent_id: '54905'
     url: http://www.gutenberg.org/2009/agents/54905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68700#The-Ring-bonanza
 gutenberg_issued: '2022-08-06'
 identifiers:
   gutenberg: '68700'
